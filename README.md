@@ -32,7 +32,7 @@ Este proyecto es una aplicación web simple que permite a los usuarios crear una
 
 ## Autor
 
-[Tu Nombre]
+Octavio Ruiz
 
 ## Licencia
 
